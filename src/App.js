@@ -11,7 +11,6 @@ import ProtectedRoute from './Components/Helper/ProtectedRoute';
 import Photo from './Components/Photo/Photo';
 import UserProfile from './Components/User/UserProfile';
 import NotFound from './Components/NotFound';
-//import Api from './api/Api';
 
 function App() {
   return (
